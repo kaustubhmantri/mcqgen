@@ -1,0 +1,1 @@
+[2024-08-16 12:34:02,195] 73 root - ERROR - Failed to read the data file: 'str' object has no attribute 'decode'
